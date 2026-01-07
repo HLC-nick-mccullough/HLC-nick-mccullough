@@ -1,4 +1,5 @@
-## Hi there I'm Nick👋
+## Hi there I'm Nick!👋
+## I'm a Software Developer on the Core Platforms Team, Application Delivery @ Homesteaders Life Company
 
 <!--
 **HLC-nick-mccullough/HLC-nick-mccullough** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
